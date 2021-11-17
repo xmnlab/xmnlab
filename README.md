@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Ivan 👋
+
+Having worked as a Developer for the last 19 years, I am now excited to topics such as Compilers, Data Science and Open Science. During these years, I had the opportunity to develop in multiple programming languages, such as Python, C++, Javascript, PHP, VB, JAVA, ShellScript for back-end, front-end, besides promoting DevOps and packaging. I had the chance to contribute to a few scientific projects as in Research Software Engineering (RSE) for Transportation Engineering and Healthcare.
+
+Additionally, I contributed to open source projects such as PyTorch, ibis-framework, and the Jupyter ecosystem. Recently, I have used technologies, libraries, and tools such as ibis-framework, pandas, PostgreSQL, OmniSciDB, MySQL, MSSQL, Django, Django-rest framework, fastapi, flask, Vue.js, JQuery, conda/conda-constructor, Docker, Argo Workflow, and others.
+
+As an Open Science enthusiast, I have recently contributed to PyOpenSci as a package reviewer and review editor and also contributed to a new community for Open Science (Open Science Labs) focused on the Latin American region
 
 
 - 🔭 I’m currently working as Software Engineer at [Quansight](https://www.quansight.com/)
