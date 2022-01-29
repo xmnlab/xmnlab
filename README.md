@@ -4,13 +4,11 @@ Having worked as a Developer for the last 19 years, I am now excited to topics s
 
 Additionally, I contributed to open source projects such as PyTorch, ibis-framework, and the Jupyter ecosystem. Recently, I have used technologies, libraries, and tools such as ibis-framework, pandas, PostgreSQL, OmniSciDB, MySQL, MSSQL, Django, Django-rest framework, fastapi, flask, Vue.js, JQuery, conda/conda-constructor, Docker, Argo Workflow, and others.
 
-As an Open Science enthusiast, I have recently contributed to PyOpenSci as a package reviewer and review editor and also contributed to a new community for Open Science (Open Science Labs) focused on the Latin American region
+As an Open Science enthusiast, I have contributed to PyOpenSci as a package reviewer and review editor and also contributed to a community for Open Science (Open Science Labs) focused on the Latin American region.
 
 
-- 🔭 I’m currently working as Software Engineer at [Quansight](https://www.quansight.com/)
 - 🌱 I’m currently learning Compilers and LLVM
 - 👯 I’m looking to collaborate on compiler projects
 - 🤔 I’m looking for help with [opensciencelabs](https://discord.opensciencelabs.org)
 - 📫 How to reach me: [twitter](https://twitter.com/xmnlab) and [linkedin](https://www.linkedin.com/in/ivan-ogasawara/)
 - 😄 Pronouns: he/him
-
