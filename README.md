@@ -1,11 +1,25 @@
 ### Hi, I'm Ivan 👋
 
-Having worked as a Developer for the last 20 years, I am now excited to topics such as Compilers, Data Science and Open Science. During these years, I had the opportunity to develop in multiple programming languages, such as Python, C++, Javascript, PHP, VB, JAVA, ShellScript for back-end, front-end, besides promoting DevOps and packaging. I had the chance to contribute to a few scientific projects as in Research Software Engineering (RSE) for Transportation Engineering and Public Health.
+Having worked as a developer for more than 20 years, I am passionate about exploring topics
+such as Compilers, Data Science and Open Science. I have some knowledge in a variety of
+programming languages such as Python, C++, JavaScript, PHP, VB, JAVA, Rust, ShellScript,
+etc used for back-end, front-end, DevOps, and packaging. I had the chance to contribute to a
+few scientific projects as a Research Software Engineer (RSE) for Transportation Engineering
+and Public Health. 
 
-Additionally, I contributed to open source projects such as PyTorch, ibis-framework, and the Jupyter ecosystem. Recently, I have used technologies, libraries, and tools such as ibis-framework, pandas, Apache Arrow, PostgreSQL, OmniSciDB, MySQL, MSSQL, Django, Django-rest framework, fastapi, flask, Vue.js, JQuery, conda/conda-constructor, Docker, Argo Workflow, Apache Superset, and others.
+I’ve contributed to open source projects such as PyTorch, ibis-framework,
+and the Jupyter ecosystem, and I’ve created and been maintained some tools that helps to
+improve the development workflow such as MakIm, and Containers-Sugar. 
 
-As an Open Science enthusiast, I have contributed to PyOpenSci as a package reviewer and review editor and also contributed to a community for Open Science (Open Science Labs) focused on the Latin American region.
+Currently, I am also creating a compiler using LLVM (initially based on Kaleidoscope LLVM tutorial) that will support
+Apache Arrow datatype as native types. Some of the libraries and tools I’ve used in the last years
+are: LLVM, ibis-framework, pandas, PostgreSQL, Django, Django-rest framework, fastapi, flask,
+GraphQL, Vue.js, JQuery, conda/conda-constructor/conda-build, Docker, mkdocs, and others. 
 
+As an Open Science enthusiast, I’ve also recently contributed to PyOpenSci as a package reviewer,
+review editor, and advisor, and I am leading a community called Open Science Labs, that aims to
+create an open and safe space for learning, teaching and sharing knowledge, besides generating
+opoortunities among the community and projects affiliated..
 
 - 🌱 I’m currently working on the ArxLang, a compiler that aims to have Apache Arrow datatype as native datatypes.
 - 👯 I’m looking to collaborate on compiler projects
