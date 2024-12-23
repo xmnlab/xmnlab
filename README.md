@@ -16,19 +16,14 @@ Apache Arrow datatype as native types. Some of the libraries and tools I’ve us
 are: LLVM, ibis-framework, pandas, PostgreSQL, Django, Django-rest framework, fastapi, flask,
 GraphQL, Vue.js, JQuery, conda/conda-constructor/conda-build, Docker, mkdocs, and others. 
 
-As an Open Science enthusiast, I’ve also recently contributed to PyOpenSci as a package reviewer,
+As an Open Science enthusiast, I’ve also recently contributed to pyOpenSci as a package reviewer,
 review editor, and advisor, and I am leading a community called Open Science Labs, that aims to
 create an open and safe space for learning, teaching and sharing knowledge, besides generating
-opoortunities among the community and projects affiliated..
+opoortunities among the community and projects affiliated.
 
-- 🌱 I’m currently working on the ArxLang, a compiler that aims to have Apache Arrow datatype as native datatypes.
-- 👯 I’m looking to collaborate on compiler projects
-- 🤔 I’m looking for help with [opensciencelabs](https://discord.opensciencelabs.org)
-- 📫 How to reach me: [twitter](https://twitter.com/xmnlab) and [linkedin](https://www.linkedin.com/in/ivan-ogasawara/)
-- 😄 Pronouns: he/him
+How to reach me: [twitter](https://twitter.com/xmnlab) and [linkedin](https://www.linkedin.com/in/ivan-ogasawara/)
 
-
-Some of the projects I've been working recently:
+### Some open source projects that I've been working recently:
 
 ## [ArtBox](https://osl-incubator.github.io/artbox/)
 
@@ -58,13 +53,6 @@ Envers is a command-line tool (CLI) designed to manage and version environment
 variables for different deployment stages such as staging, development, and
 production. It provides a secure and organized way to handle
 environment-specific configurations.
-
----
-
-## [fqlearn](https://osl-pocs.github.io/fqlearn/)
-
-This Project aims to facilitate the teaching of unit operations and
-thermodynamics.
 
 ---
 
